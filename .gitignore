@@ -61,5 +61,5 @@ dmypy.json
 .pytype/
 # Jupyter Notebook
 .ipynb_checkpoints
-# Local settings
+# Local settingss
 local_settings.py
